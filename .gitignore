@@ -1,9 +1,9 @@
 .gradle
+.idea
 /local.properties
-/.idea/workspace.xml
 /gradlew
 /gradlew.bat
 /gradle.*
-/gradle/
+gradle
 /build.gradle
 /MyFirstApp.iml
